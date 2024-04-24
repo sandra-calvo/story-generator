@@ -4,9 +4,7 @@
 
 This Streamlit app uses Google Cloud's Gemini-Pro model to generate interactive children's stories based on user input.
 
-![image](https://raw.githubusercontent.com/sandra-calvo/story-generator/main/screencaptures/image1.png)
-
-![image](https://raw.githubusercontent.com/sandra-calvo/story-generator/main/screencaptures/image2.png)
+![image](https://raw.githubusercontent.com/sandra-calvo/story-generator/main/image1.png)
 
 **How to use:**
 
@@ -42,6 +40,12 @@ streamlit run cuentos_by_gemini.py
 **Deployment:**
 
 This app can be deployed to Google Cloud or any other platform that supports Streamlit apps.
+
+**Screen Captures:**
+
+![image](https://raw.githubusercontent.com/sandra-calvo/story-generator/main/image2.png)
+
+![image](https://raw.githubusercontent.com/sandra-calvo/story-generator/main/image3.png)
 
 **License:**
 
