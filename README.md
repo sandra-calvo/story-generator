@@ -32,7 +32,7 @@ Vertex AI Generative Models
 
 - Create a Google Cloud Platform account and enable the required APIs.
 - Install the required Python packages.
-- Set the GOOGLE_APPLICATION_CREDENTIALS environment variable to the path of your service account key file.
+- Replace "YOUR_PROJECT_ID" with your Google Cloud project ID. 
 - Run the app using the following command:
 ```bash
 streamlit run cuentos_by_gemini.py
